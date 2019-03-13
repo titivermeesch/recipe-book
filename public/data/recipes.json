@@ -1,0 +1,97 @@
+{
+    "recipes": [
+        {
+            "id": 0,
+            "name": "Lasagne Maison",
+            "persons": 4,
+            "ingredients": [
+                {
+                    "name": "Farine",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "Oeufs",
+                    "quantity": 3
+                },
+                {
+                    "name": "Huile d'olives",
+                    "quantity": ""
+                },
+                {
+                    "name": "Haché",
+                    "quantity": "400g"
+                },
+                {
+                    "name": "Onions",
+                    "quantity": 1
+                },
+                {
+                    "name": "Carottes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ail",
+                    "quantity": 3
+                },
+                {
+                    "name": "Concentré de tomate",
+                    "quantity": "15g"
+                },
+                {
+                    "name": "Feuilles de Laurier",
+                    "quantity": 2
+                },
+                {
+                    "name": "Tomates",
+                    "quantity": "400g"
+                },
+                {
+                    "name": "Huile d'olives",
+                    "quantity": ""
+                },
+                {
+                    "name": "Eau",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Fond de veau",
+                    "quantity": ""
+                },
+                {
+                    "name": "Persil",
+                    "quantity": ""
+                },
+                {
+                    "name": "Sel",
+                    "quantity": ""
+                },
+                {
+                    "name": "Poivre",
+                    "quantity": ""
+                }
+            ],
+            "steps": [
+                {
+                    "id": 1,
+                    "info": "Verser la farine sur votre plan de travail, faire un puit au centre et y verser les oeufs, le sel, et l'huile d'olive."
+                },
+                {
+                    "id": 2,
+                    "info": "Fouetter légèrement les oeufs a l'aide d'une fourchette, et une fois battus, ramener la farine délicatement vers le centre. Ramasser la pâte, afin d'obtenir une pâte homogène. Si elle colle, n'hésitez pas à ajouter un peu de farine."
+                },
+                {
+                    "id": 3,
+                    "info": "Travailler votre pâte pendant 10 minutes, en l'étirant vers l'avant et tout en la tournant légèrement."
+                },
+                {
+                    "id": 4,
+                    "info": "Une fois bien pétrie, vous devez obtenir une pâte lisse. Former une boule, et la couvrir d'un papier film et la laisser reposer 30 minutes à une heure."
+                },
+                {
+                    "id": 5,
+                    "info": "Pendant ce temps, préparer la sauce bolognaise"
+                }
+            ]
+        }
+    ]
+}

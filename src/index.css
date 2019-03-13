@@ -1,0 +1,14 @@
+/* GLOBAL VARIABLES */
+:root {
+    --main-nav-color: #4b3b47;
+    --main-text-color: #e0d8de;
+    --main-body-color: #cfd2b2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--main-body-color);
+    overflow-x: hidden;
+}

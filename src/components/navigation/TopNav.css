@@ -1,0 +1,39 @@
+.topnav {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-content: center;
+    justify-items: center;
+    width: 100%;
+    height: auto;
+    background-color: var(--main-nav-color);
+}
+
+.topnav > .link {
+    color: var(--main-text-color);
+    font-size: 1.6rem;
+    text-decoration: none;
+    transition: 0.2s;
+    margin: 15px;
+}
+
+.topnav > .link:hover {
+    color: #9c9990;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.topnav > hr {
+    display: none;
+}
+
+/* NAVBAR RESPONSIVE */
+@media screen and (max-width: 500px) {
+    .topnav {
+        grid-template-columns: 1fr;
+    }
+
+    .topnav > hr {
+        display: block;
+        width: 50%;
+    }
+}

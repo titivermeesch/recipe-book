@@ -1,0 +1,68 @@
+.ingredients {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 1em;
+    justify-items: center;
+    margin-top: 40px;
+}
+
+.ingredient-styler {
+    border: var(--main-nav-color) solid 1px;
+    height: auto;
+    width: 90%;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: var(--main-nav-color);
+    color: var(--main-text-color);
+}
+
+.ingredient-styler > .name {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.ingredient-styler .type {
+    font-style: italic;
+    color: #9c9990;
+    font-size: 0.9em;
+}
+
+.ingredient-styler > .calories {
+    font-size: 0.9em;
+}
+
+/* SEARCH FORM */
+
+.ingredient-search {
+    margin: 20px 35%;
+    width: 30%;
+    height: 30px;
+    border: none;
+    padding-left: 10px;
+}
+
+.ingredient-search:focus {
+    outline: none;
+    box-shadow: 6px 7px 72px -10px rgba(0, 0, 0, 0.75);
+}
+
+/* RESPONSIVE INGREDIENTS */
+@media screen and (max-width: 1210px) {
+    .ingredients {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .ingredients {
+        grid-gap: 0.7em;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .ingredients {
+        grid-gap: 0.5em;
+        grid-template-columns: 1fr;
+    }
+}
