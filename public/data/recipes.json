@@ -68,6 +68,14 @@
                 {
                     "name": "Poivre",
                     "quantity": ""
+                },
+                {
+                    "name": "Lait",
+                    "quantity": "500g"
+                },
+                {
+                    "name": "Beurre",
+                    "quantity": "50g"
                 }
             ],
             "steps": [
@@ -90,6 +98,82 @@
                 {
                     "id": 5,
                     "info": "Pendant ce temps, préparer la sauce bolognaise"
+                },
+                {
+                    "id": 6,
+                    "info": "Dans une poêle, mettre un peu d'huile et faire revenir l'oignon haché finement et les gousses d'ail écrasées. Ajouter la carotte rapée."
+                },
+                {
+                    "id": 7,
+                    "info": "Ensuite, ajouter la viande hachée émiettée, du sel, du poivre et bien mélanger le tout. Faire cuire la viance."
+                },
+                {
+                    "id": 8,
+                    "info": "Une fois la viande revenue, ajouter la tomate concentré et le persil haché. Bien mélanger."
+                },
+                {
+                    "id": 9,
+                    "info": "Ajouter les tomates coupés en dés, les feuilles de laurier, le sel, le poivre, et le fond de veau dilué dans l'eau. Mélanger le tout, couvrir et laisser mijoter 30 minutes environ. Remuer de temps en temps."
+                },
+                {
+                    "id": 10,
+                    "info": "Ensuite on s'occupe de notre pâte..."
+                },
+                {
+                    "id": 11,
+                    "info": "Préparez un rouleau et un laminoir"
+                },
+                {
+                    "id": 12,
+                    "info": "Diviser votre pâte en plusieurs boules d'environ 80g"
+                },
+                {
+                    "id": 13,
+                    "info": "Prendre une boule de pâte et l'étaler légèrement au rouleau sur la longueur et la passer dans le laminoir au niveau 1 pour commencer."
+                },
+                {
+                    "id": 14,
+                    "info": "Ensuite la plier en 3, l'étaler légèrement au rouleau et la repasser au laminoir, toujours au niveau 1."
+                },
+                {
+                    "id": 15,
+                    "info": "Ensuite passer votre pâte au laminoir au niveau 2, 3, 4,... jusqu'au niveau 6-7, sans oublier de fariner votre pâte au fur et à mesure des niveaux."
+                },
+                {
+                    "id": 17,
+                    "info": "Couper chaque bande, en plusieurs rectangles et les laisser sécher sur un torchon légèrement fariné, avant de les utiliser."
+                },
+                {
+                    "id": 18,
+                    "info": "Pendant le séchage, préparer votre béchamel."
+                },
+                {
+                    "id": 19,
+                    "info": "Faire fondre le beurre dans une casserole sur le feu."
+                },
+                {
+                    "id": 20,
+                    "info": "Ajouter la farine, puis fouetter le tout pour obtenir un roux."
+                },
+                {
+                    "id": 21,
+                    "info": "Verser petit à petit le lait, tout en fouettant. Fouetter jusqu'à épaississement de la sauce. Saler, poivrer."
+                },
+                {
+                    "id": 22,
+                    "info": "Beurrer un plat à gratin, étaler dans le fond un peu de sauce bolognaise."
+                },
+                {
+                    "id": 23,
+                    "info": "Disposer sur le dessus, une couche de pâte, ensuite une couche de bolo, une couche de béchamel, et un peu de fromage râpé et ainsi de suite..."
+                },
+                {
+                    "id": 24,
+                    "info": "Terminer par une couche de lasagne, étaler de la sauce béchamel sur le dessus, parsemer de fromage râpé et de mozarella émietté."
+                },
+                {
+                    "id": 25,
+                    "info": "Enfin, enfourner dans un four préchauffé à 200°C, Cuire pendant 15-20 minutes jusqu'à que le dessus soit bien gratiné."
                 }
             ]
         }

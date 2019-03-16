@@ -206,6 +206,24 @@
             "sucre": 0.6,
             "proteinnes": 10,
             "water": 9
+        },
+        {
+            "name": "Lait",
+            "type": "Laitier",
+            "calories": 42,
+            "gras": 1,
+            "sucre": 5,
+            "proteinnes": 3.4,
+            "water": 87
+        },
+        {
+            "name": "Beurre",
+            "type": "Laitier",
+            "calories": 717,
+            "gras": 81,
+            "sucre": 0.1,
+            "proteinnes": 0.9,
+            "water": 17
         }
     ]
 }
