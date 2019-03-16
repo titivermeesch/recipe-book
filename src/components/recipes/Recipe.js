@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import { Link } from 'react-router-dom'
-import { Pie } from 'react-chartjs-2'
 
 import './recipe.css'
 

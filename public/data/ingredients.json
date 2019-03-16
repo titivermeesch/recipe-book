@@ -1,7 +1,6 @@
 {
     "ingredients": [
         {
-            "id": 1,
             "name": "Pommes",
             "type": "Fruit",
             "calories": 95,
@@ -11,7 +10,6 @@
             "water": 85.56
         },
         {
-            "id": 2,
             "name": "Poires",
             "type": "Fruit",
             "calories": 102,
@@ -21,7 +19,6 @@
             "water": 84
         },
         {
-            "id": 3,
             "name": "Ananas",
             "type": "Fruit",
             "calories": 452,
@@ -30,7 +27,6 @@
             "water": 87
         },
         {
-            "id": 4,
             "name": "Cerises",
             "type": "Fruit",
             "calories": 63,
@@ -39,7 +35,6 @@
             "proteinnes": 1.1
         },
         {
-            "id": 5,
             "name": "Fraises",
             "type": "Fruit",
             "calories": 3,
@@ -49,7 +44,6 @@
             "water": 90.95
         },
         {
-            "id": 6,
             "name": "Bananes",
             "type": "Fruit",
             "calories": 105,
@@ -59,7 +53,6 @@
             "water": 74.91
         },
         {
-            "id": 7,
             "name": "Raisins",
             "type": "Fruit",
             "calories": 69,
@@ -69,7 +62,6 @@
             "water": 80
         },
         {
-            "id": 8,
             "name": "Steak",
             "type": "Viande",
             "calories": 271,
@@ -80,7 +72,6 @@
             "poids": 100
         },
         {
-            "id": 9,
             "name": "Farine",
             "type": "Divers",
             "calories": 364,
@@ -91,7 +82,6 @@
             "poids": 100
         },
         {
-            "id": 10,
             "name": "Oeufs",
             "type": "Divers",
             "calories": 78,
@@ -101,7 +91,6 @@
             "water": 7
         },
         {
-            "id": 11,
             "name": "Sel",
             "type": "Epice",
             "calories": 0,
@@ -111,7 +100,6 @@
             "water": 0
         },
         {
-            "id": 12,
             "name": "Huile d'olives",
             "type": "Huiles",
             "calories": 40,
@@ -121,7 +109,6 @@
             "water": 60
         },
         {
-            "id": 13,
             "name": "Haché",
             "type": "Viande",
             "calories": 271,
@@ -131,7 +118,6 @@
             "water": 65
         },
         {
-            "id": 14,
             "name": "Onions",
             "type": "Légume",
             "calories": 44,
@@ -141,7 +127,6 @@
             "water": 89
         },
         {
-            "id": 15,
             "name": "Carottes",
             "type": "Légume",
             "calories": 41,
@@ -151,7 +136,6 @@
             "water": 88
         },
         {
-            "id": 16,
             "name": "Ail",
             "type": "Légume",
             "calories": 50,
@@ -161,7 +145,6 @@
             "water": 59
         },
         {
-            "id": 17,
             "name": "Concentré de tomate",
             "type": "Divers",
             "calories": 82,
@@ -171,7 +154,6 @@
             "water": 59
         },
         {
-            "id": 18,
             "name": "Feuilles de Laurier",
             "type": "Epices",
             "calories": 5,
@@ -181,59 +163,49 @@
             "water": 20
         },
         {
-            "id": 19,
             "name": "Tomates",
             "type": "Légume",
             "calories": 18,
             "gras": 0.2,
             "sucre": 3.9,
             "proteinnes": 0.9,
-            "water": 94.5,
-            "poids": 100
+            "water": 94.5
         },
         {
-            "id": 20,
             "name": "Eau",
             "type": "Boissons",
             "calories": 0,
             "gras": 0,
             "sucre": 0,
             "proteinnes": 0,
-            "water": 100,
-            "poids": 100
+            "water": 100
         },
         {
-            "id": 21,
             "name": "Fond de veau",
             "type": "Bouillon",
             "calories": 227,
             "gras": 0,
             "sucre": 9.1,
             "proteinnes": 45.5,
-            "water": 75,
-            "poids": 100
+            "water": 75
         },
         {
-            "id": 22,
             "name": "Persile",
             "type": "Epice",
             "calories": 36,
             "gras": 0.8,
             "sucre": 0.9,
             "proteinnes": 3,
-            "water": 60,
-            "poids": 100
+            "water": 60
         },
         {
-            "id": 23,
             "name": "Poivre",
             "type": "Epice",
             "calories": 251,
             "gras": 3.3,
             "sucre": 0.6,
             "proteinnes": 10,
-            "water": 9,
-            "poids": 100
+            "water": 9
         }
     ]
 }

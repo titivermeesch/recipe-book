@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "browserify-fs": "^1.0.0",
     "chart.js": "^2.7.3",
     "react": "^16.8.4",
     "react-chartjs-2": "^2.7.4",
